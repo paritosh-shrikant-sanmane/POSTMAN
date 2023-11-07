@@ -2,7 +2,7 @@
 
 @@@@@ HOW TO RUN THIS PROJECT @@@@@
 
-Step 1: install vs code and open live server extension.
+Step 1: install vs code and  live server extension.
 
 Step 2: index.html file open in live server (on index.html right click on mouse then select live server)
 
